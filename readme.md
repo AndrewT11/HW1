@@ -2,7 +2,7 @@
 
 ## A short exercise to clean up html elements and css styling for the Horiseon Webpage
 
-**Refactoring** The purpose of this homework assignment was to refactor existing code (improving it without changing what it does) to meet a certain set of standards. For this particular homework assignment, a marketing agency has hired you to refactor an existing site to make it more accessible
+**Refactoring** The purpose of this homework assignment was to refactor existing code (improving it without changing what it does) to meet a certain set of standards. For this particular homework assignment, a marketing agency has hired me to refactor an existing site to make it more accessible
 
 Important fo this project was making the website as acessible as possible, given our knowledge. Accessiblity would include video captions, screen readers, and braille keyboards. 
 
